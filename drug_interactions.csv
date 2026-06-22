@@ -1,0 +1,11 @@
+drug1,drug2,severity,description
+Aspirin,Warfarin,Severe,High bleeding risk
+Ibuprofen,Warfarin,Moderate,Increased bleeding risk
+Paracetamol,Warfarin,Mild,Liver enzyme interaction
+Metformin,Atorvastatin,Moderate,Increased risk of muscle toxicity
+Aspirin,Clopidogrel,Severe,Excessive bleeding risk
+Amoxicillin,Warfarin,Moderate,May increase anticoagulant effect
+Omeprazole,Clopidogrel,Moderate,Reduces antiplatelet effect
+Lisinopril,Ibuprofen,Moderate,Reduced kidney function
+Metformin,Lisinopril,Mild,Blood pressure interaction
+Aspirin,Ibuprofen,Mild,Reduced anti-inflammatory effect
